@@ -1,0 +1,6 @@
+git checkout master
+git merge readme
+git branch
+git branch -D new_new
+git checkout -b new_new
+git commit -m "Second commit"
